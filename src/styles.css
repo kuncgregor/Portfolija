@@ -104,8 +104,9 @@ p{
 }
 
 .logo {
-    height: 100px;
+    height: 250px;
     margin: 30px;
+    border-radius: 20px;
 }
 
 /*.vegahq {
